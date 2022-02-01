@@ -1,0 +1,6 @@
+.list-group-item{
+    border: 1px solid red;
+}
+.parent-li li i{
+    cursor: pointer;
+}
